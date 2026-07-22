@@ -1,6 +1,6 @@
 <div align="center">
 
-# mkpool
+# MKPool Mining Software
 
 ### Modern, high-performance Bitcoin mining pool software. Written in C++23.
 
